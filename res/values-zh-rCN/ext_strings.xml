@@ -17,5 +17,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">信息服务</string>
+  <string name="app_name">短信服务</string>
 </resources>
